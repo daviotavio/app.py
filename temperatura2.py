@@ -1,3 +1,5 @@
+#Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+
 print('Calculadora de graus que transfoma graus celcius em fahrenheit')
 print('Forneça a temperatura em graus celcius: ')
 graus_c = float(input())
