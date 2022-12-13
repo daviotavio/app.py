@@ -18,4 +18,4 @@ elif escolha == 'salario' or escolha =='Salario' or escolha =='Salário' or esco
     print('Seu saláro no fim do mês foi ', salario_mensal)
 
 else:
-    print('Algo deu errado, digite "salário" ou "horas"')
+    print('Algo deu errado, digite "salário" ou "horas"!')
